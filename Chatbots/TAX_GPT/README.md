@@ -1,6 +1,6 @@
-## Income Tax Chatbot App
+## SentiBot
 
-This is an Android application developed using Android Studio and Firebase Authentication for a simple Income Tax Chatbot. Users can sign up, sign in, reset passwords, and communicate with the chatbot to get information about income tax-related queries.
+This is an Android application developed using Android Studio and Firebase Authentication for a simple Chatbot. Users can sign up, sign in, reset passwords, and communicate with the chatbot to get information about income tax-related queries.
 
 ### Features:
 - User Authentication (Sign Up, Sign In, Reset Password) using Firebase Authentication.
